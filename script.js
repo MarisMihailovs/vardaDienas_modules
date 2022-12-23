@@ -13,7 +13,7 @@ console.log(date + "-" + month + "-" + year);
 console.log(Dati);
 
 vardi.innerText = Dati[month - 1][date - 1] + "!";
-datums.innerText = date + "-" + month + "-" + year;
+datums.innerText = `${date}-${month}-${year}`;
 
 
 
