@@ -1,6 +1,10 @@
 body {
-    font-family: "FS Me Pro-Italic";
+    font-family: 'Montserrat', sans-serif;
     background-color: #bf1528;
+    background: url(background_v3.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color: #ffffff;
     text-align: center;
     margin: auto;
