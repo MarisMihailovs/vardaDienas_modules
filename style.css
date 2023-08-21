@@ -72,9 +72,6 @@ h2 {
         font-size: 2.5em;
     }
 
-    .uzruna {
-        flex-direction: column;
-    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -91,9 +88,6 @@ h2 {
         font-size: 2.5em;
     }
 
-    .uzruna {
-        flex-direction: column;
-    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
