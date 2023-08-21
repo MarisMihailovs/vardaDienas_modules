@@ -1,13 +1,24 @@
 body {
     font-family: 'FS ME Pro', 'Montserrat', sans-serif;
-    background-color: #B300B3;
+    background-color: #a9dae0;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color: #ffffff;
     text-align: center;
     margin: auto;
     font-size: 100%;
+}
+
+.uzruna {
+    display: flex;
+    align-items: center;
+    color: #8e0038;
+}
+
+img {
+    width: 96px;
+    height: 96px;
+    margin: 20px;
 }
 
 .container {
@@ -17,6 +28,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: black;
 }
 
 h1 {

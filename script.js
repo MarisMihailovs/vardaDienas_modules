@@ -1,6 +1,5 @@
 import { Dati } from "./vardadienas.js";
 
-const uzruna = document.querySelector('#uzruna');
 const vardi = document.querySelector('#vardi');
 const datums = document.querySelector('#datums')
 const d = new Date();
