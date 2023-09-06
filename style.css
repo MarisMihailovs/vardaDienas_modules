@@ -1,5 +1,11 @@
+/*  */
+@font-face {
+    font-family: "Fira Sans";
+    src: url('/Fonts/FedraSerifAPro_complete_OTF/FedraSerifAPro_complete_OTF/FSerProA-Medium.otf');
+}
+
 body {
-    font-family: 'FS ME Pro', 'Montserrat', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     background-color: #a9dae0;
     background-repeat: no-repeat;
     background-position: center;
