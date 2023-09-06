@@ -1,7 +1,7 @@
 /*  */
 @font-face {
     font-family: "FSerProA-Medium";
-    src: url('/Fonts/FedraSerifAPro_complete_OTF/FedraSerifAPro_complete_OTF/FSerProA-Medium.otf');
+    src: url("Fonts/FedraSerifAPro_complete_OTF/FedraSerifAPro_complete_OTF/FSerProA-Medium.otf");
 }
 
 body {
