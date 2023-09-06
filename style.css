@@ -1,11 +1,11 @@
 /*  */
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "FSerProA-Medium";
     src: url('/Fonts/FedraSerifAPro_complete_OTF/FedraSerifAPro_complete_OTF/FSerProA-Medium.otf');
 }
 
 body {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'FSerProA-Medium', sans-serif;
     background-color: #a9dae0;
     background-repeat: no-repeat;
     background-position: center;
