@@ -10,6 +10,10 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
     text-align: center;
     margin: auto;
     font-size: 100%;
@@ -28,9 +32,8 @@ img {
 }
 
 .container {
-    width: 100vw;
-    height: 100vh;
     display: flex;
+    text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -43,6 +46,7 @@ h1 {
 
 h2 {
     font-size: 3.5em;
+    margin-inline: 20px;
 }
 
 /* Extra small devices (phones, 600px and down) */
